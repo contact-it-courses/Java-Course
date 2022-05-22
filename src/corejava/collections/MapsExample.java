@@ -14,6 +14,7 @@ public class MapsExample {
         family.put(1,"Father");
         family.put(99,"Cat");
         family.put(0,"Dag");
+        family.put(5,"Fish");
 
         System.out.println(family);
         System.out.println("family.get(2)="+family.get(2));
